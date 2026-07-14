@@ -1,7 +1,4 @@
 tmp/essai.txt
 tmp/*
-<<<<<<< HEAD
 *.txt
-=======
 *.xml
->>>>>>> a745e0f (exclusion des fichiers .xml)
